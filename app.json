@@ -1,5 +1,5 @@
 {
-  "name": "OVL-MD-V2",
+  "name": "𒋲𝗦𝗔𝗡𝗣𝗜𝗧𝗜𝗘𒋲𝐂.𝐎.𝐑",
   "description": "Bot WhatsApp Multi-Device basé sur Baileys",
   "keywords": ["Ainz", "OVL-MD-V2", "Whatsapp", "Baileys", "Muti-device"],
   "logo": "https://files.catbox.moe/lojrxz.jpg",
@@ -19,7 +19,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "226xxxxxxxx",
+      "value": "50955124424",
       "required": true
     },
     "MODE": {
@@ -27,7 +27,7 @@
       "value": "public",
       "required": false
     },
-    "SESSION_ID": {
+    "SESSION_ID": {Ovl-MD_7W9qQ6ND_SESSION-ID
       "description": "Identifiant de session",
       "value": "ovl",
       "required": true
@@ -39,12 +39,12 @@
     },
     "LEVEL_UP": {
       "description": "Activer le système de niveau (oui ou non)",
-      "value": "non",
+      "value": "oui",
       "required": false
     },
     "STICKER_PACK_NAME": {
       "description": "Nom du pack de stickers",
-      "value": "Wa-sticker",
+      "value": "𒋲𝗦𝗔𝗡𝗣𝗜𝗧𝗜𝗘𒋲𝐂.𝐎.𝐑",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
